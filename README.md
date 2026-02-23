@@ -69,12 +69,14 @@ npm run preview
 ```
 
 ## Screenshots
+Login
+<img width="1920" height="1007" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/e10d2554-c506-4341-a072-2765acd26a58" />
 
-```md
-![Login Page]<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/5d6786e5-a295-4589-b805-a04d6c12c797" />
-![Admin Dashboard]<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/d0553e8b-6197-423c-b53a-be64bee8081d" />
-![Employee Dashboard]<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/561eef56-b5c4-4d59-b9be-20859a18f0b6" />
-```
+AdminDashboard
+<img width="1920" height="1021" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/e33f2cb0-81f8-44e2-958e-fff70d8a6271" />
+
+EmployeePage
+<img width="1920" height="1028" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/aa1c1f09-028e-4e23-9382-01bcc64ba66b" />
 
 ## Notes
 
