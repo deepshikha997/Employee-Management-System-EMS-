@@ -42,7 +42,7 @@ This demo supports:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/deepshikha997/Employee-Management-System-EMS-.git
+git clone https://github.com/deepshikha997/Employee-Management-System-EMS.git
 cd Employee-Management-System-EMS
 ```
 
