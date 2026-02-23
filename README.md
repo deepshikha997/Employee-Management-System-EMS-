@@ -37,8 +37,6 @@ This demo supports:
 - `e@e.com` / `123` (Arjun)
 - `employee2@example.com` / `123` (Sneha)
 - `employee3@example.com` / `123` (Ravi)
-- `employee4@example.com` / `123` (Priya)
-- `employee5@example.com` / `123` (Karan)
 
 ## Getting Started
 
@@ -72,12 +70,10 @@ npm run preview
 
 ## Screenshots
 
-Add your screenshots in a folder like `screenshots/`, then reference them here:
-
 ```md
-![Login Page](./screenshots/login.png)
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-![Employee Dashboard](./screenshots/employee-dashboard.png)
+![Login Page]<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/5d6786e5-a295-4589-b805-a04d6c12c797" />
+![Admin Dashboard]<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/d0553e8b-6197-423c-b53a-be64bee8081d" />
+![Employee Dashboard]<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/561eef56-b5c4-4d59-b9be-20859a18f0b6" />
 ```
 
 ## Notes
